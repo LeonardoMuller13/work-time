@@ -1,0 +1,16 @@
+{
+    "name": "spa/http",
+    "autoload": {
+        "psr-4": {
+            "Spa\\Http\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leonardo Müller",
+            "email": "leonardo.muller@engenharia.ufjf.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

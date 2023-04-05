@@ -185,7 +185,8 @@ return [
         /*
          * Package Service Providers...
          */
-
+        Spa\Api\ApiServiceProvider::class,
+        Spa\Http\HttpServiceProvider::class,
         /*
          * Application Service Providers...
          */
@@ -194,7 +195,6 @@ return [
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
-
     ],
 
     /*

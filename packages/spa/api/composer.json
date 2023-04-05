@@ -1,0 +1,17 @@
+{
+    "name": "spa/api",
+    "description": "Api for work time project",
+    "autoload": {
+        "psr-4": {
+            "Spa\\Api\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leonardo Müller",
+            "email": "leonardo.muller@engenharia.ufjf.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
