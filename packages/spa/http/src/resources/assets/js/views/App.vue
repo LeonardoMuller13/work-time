@@ -1,11 +1,11 @@
 <template>
-    <div style="background:transparent">
+    <div style="background:transparent; height: 100%;">
         <router-view />
     </div>
 </template>
   
 <style>
 body {
-    background-color: rgb(128, 128, 128, 0.3)
+    background-color: #FFF
 }
 </style>
