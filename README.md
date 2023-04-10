@@ -4,14 +4,21 @@ Node v16.19.0 / NPM 8.19.3
 
 ### Install dependecies and packages
 
-`composer install`
-`npm install`
+```composer install
+```
+```
+npm install
+```
 
 ### Run Laravel server
-`php artisan serve --host="localhost" --port="8000"`
+```
+$ php artisan serve --host="localhost" --port="8000"
+```
 
 ### Run SPA
-`npm run watch` ou `npm run hot`
+```npm run watch```
+ou 
+```npm run hot```
 
 ### About
 
