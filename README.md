@@ -1,12 +1,16 @@
-### INSTALL
-
+### Requirements
 PHP v8.1
+Node v16.19.0 / NPM 8.19.3
+
+### Install dependecies and packages
 
 `composer install`
 `npm install`
 
-### Run
+### Run Laravel server
 `php artisan serve`
+
+### Run SPA
 `npm run watch` ou `npm run hot`
 
 ### About
