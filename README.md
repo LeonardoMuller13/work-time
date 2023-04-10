@@ -1,6 +1,6 @@
 ### Requirements
 `PHP v8.1`
-`Node v16.19.0 / NPM 8.19.3
+`Node v16.19.0 / NPM 8.19.3`
 
 ### Install dependecies and packages
 
